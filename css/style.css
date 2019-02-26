@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+}
+
+div.header{
+    display: block;
+    padding: 10px;
+    border: 1px solid red;
+}
+
+div#logo{
+    display: inline block;
+    position: absolute;
+
+}
+
+div#author {
+    size: 100px 20px;
+    float: left;
+    
+
+}
